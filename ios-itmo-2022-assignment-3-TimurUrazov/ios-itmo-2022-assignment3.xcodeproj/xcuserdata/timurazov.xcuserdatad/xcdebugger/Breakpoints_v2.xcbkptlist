@@ -1,0 +1,867 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C987EAB6-22B7-46C7-A7AF-79220ABCCF90"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "509BB68D-2E01-4676-968A-8B447BCB9BFA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-itmo-2022-assignment3/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "509BB68D-2E01-4676-968A-8B447BCB9BFA - a195f7a33900958b"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_itmo_2022_assignment3.ViewController.tableView.getter : Swift.Optional&lt;__C.UITableView&gt;"
+                  moduleName = "ios-itmo-2022-assignment3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/timurazov/university/ios/ios-itmo-2022-assignment-3-TimurUrazov/ios-itmo-2022-assignment3/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "509BB68D-2E01-4676-968A-8B447BCB9BFA - 5b861f0643c64997"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_itmo_2022_assignment3.ViewController.tableView.setter : Swift.Optional&lt;__C.UITableView&gt;"
+                  moduleName = "ios-itmo-2022-assignment3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/timurazov/university/ios/ios-itmo-2022-assignment-3-TimurUrazov/ios-itmo-2022-assignment3/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "509BB68D-2E01-4676-968A-8B447BCB9BFA - 2c4ba74dd9d47286"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_itmo_2022_assignment3.ViewController.tableView.modify : Swift.Optional&lt;__C.UITableView&gt;"
+                  moduleName = "ios-itmo-2022-assignment3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/timurazov/university/ios/ios-itmo-2022-assignment-3-TimurUrazov/ios-itmo-2022-assignment3/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "509BB68D-2E01-4676-968A-8B447BCB9BFA - 31c12a2014cd5a4b"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_itmo_2022_assignment3.ViewController.tableView.modify : Swift.Optional&lt;__C.UITableView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "ios-itmo-2022-assignment3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/timurazov/university/ios/ios-itmo-2022-assignment-3-TimurUrazov/ios-itmo-2022-assignment3/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "509BB68D-2E01-4676-968A-8B447BCB9BFA - 304d4e78caa97084"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_itmo_2022_assignment3.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; ios_itmo_2022_assignment3.ViewController"
+                  moduleName = "ios-itmo-2022-assignment3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/timurazov/university/ios/ios-itmo-2022-assignment-3-TimurUrazov/ios-itmo-2022-assignment3/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "509BB68D-2E01-4676-968A-8B447BCB9BFA - 4c5a0fb0e49d5f0c"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_itmo_2022_assignment3.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;ios_itmo_2022_assignment3.ViewController&gt;"
+                  moduleName = "ios-itmo-2022-assignment3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/timurazov/university/ios/ios-itmo-2022-assignment-3-TimurUrazov/ios-itmo-2022-assignment3/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "80">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "962A4229-C8C7-476B-BBC7-0C76544AD3E8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-itmo-2022-assignment3/AddFilmController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "254"
+            endingLineNumber = "254"
+            landmarkName = "didTapSaveButton()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "962A4229-C8C7-476B-BBC7-0C76544AD3E8 - f0f3360bd761322"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_itmo_2022_assignment3.AddFilmController.didTapSaveButton() -&gt; ()"
+                  moduleName = "ios-itmo-2022-assignment3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/timurazov/university/ios/ios-itmo-2022-assignment-3-TimurUrazov/ios-itmo-2022-assignment3/AddFilmController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "268"
+                  endingLineNumber = "268"
+                  offsetFromSymbolStart = "744">
+               </Location>
+               <Location
+                  uuid = "962A4229-C8C7-476B-BBC7-0C76544AD3E8 - f0f3360bd761322"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_itmo_2022_assignment3.AddFilmController.didTapSaveButton() -&gt; ()"
+                  moduleName = "ios-itmo-2022-assignment3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/timurazov/university/ios/ios-itmo-2022-assignment-3-TimurUrazov/ios-itmo-2022-assignment3/AddFilmController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "268"
+                  endingLineNumber = "268"
+                  offsetFromSymbolStart = "856">
+               </Location>
+               <Location
+                  uuid = "962A4229-C8C7-476B-BBC7-0C76544AD3E8 - eb6335eda4b732d5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (ios_itmo_2022_assignment3.IndexedButton) -&gt; Swift.Bool in ios_itmo_2022_assignment3.AddFilmController.didTapSaveButton() -&gt; ()"
+                  moduleName = "ios-itmo-2022-assignment3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/timurazov/university/ios/ios-itmo-2022-assignment-3-TimurUrazov/ios-itmo-2022-assignment3/AddFilmController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "268"
+                  endingLineNumber = "268"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CF6F8170-2626-4857-8A8B-66D057DE0F55"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-itmo-2022-assignment3/AddFilmController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "257"
+            endingLineNumber = "257"
+            landmarkName = "didTapSaveButton()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CF6F8170-2626-4857-8A8B-66D057DE0F55 - f0f3360bd7613a6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_itmo_2022_assignment3.AddFilmController.didTapSaveButton() -&gt; ()"
+                  moduleName = "ios-itmo-2022-assignment3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/timurazov/university/ios/ios-itmo-2022-assignment-3-TimurUrazov/ios-itmo-2022-assignment3/AddFilmController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "272"
+                  endingLineNumber = "272"
+                  offsetFromSymbolStart = "1540">
+               </Location>
+               <Location
+                  uuid = "CF6F8170-2626-4857-8A8B-66D057DE0F55 - f0f3360bd7613a6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_itmo_2022_assignment3.AddFilmController.didTapSaveButton() -&gt; ()"
+                  moduleName = "ios-itmo-2022-assignment3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/timurazov/university/ios/ios-itmo-2022-assignment-3-TimurUrazov/ios-itmo-2022-assignment3/AddFilmController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "272"
+                  endingLineNumber = "272"
+                  offsetFromSymbolStart = "1620">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A3DB2426-564D-4FF8-BC61-A6D610CF6778"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-itmo-2022-assignment3/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "232"
+            endingLineNumber = "232"
+            landmarkName = "add(review:date:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A6B994EF-7FE7-4E36-B304-EA6C70F95561"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-itmo-2022-assignment3/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "tableView(_:numberOfRowsInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3B2DAD6C-45FB-41F8-8DA7-93BE97826A6F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-itmo-2022-assignment3/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "numberOfSections(in:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8F309D46-9FAD-4E03-9F0D-C255AD68C813"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-itmo-2022-assignment3/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "51D34FCE-2C82-42D8-A2C1-CD9847EDC5C9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-itmo-2022-assignment3/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4803AE18-8612-449D-B12F-53B3043AFC8B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-itmo-2022-assignment3/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "numberOfSections(in:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A2277767-279F-4F14-90A8-B9B1590CB55B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-itmo-2022-assignment3/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "tableView(_:titleForHeaderInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "49A344EE-0DFF-4B7A-AEA0-2C3E1C33E3ED"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-itmo-2022-assignment3/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "49A344EE-0DFF-4B7A-AEA0-2C3E1C33E3ED - 46e5ad074eee78b7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_itmo_2022_assignment3.ViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "ios-itmo-2022-assignment3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/timurazov/university/ios/ios-itmo-2022-assignment-3-TimurUrazov/ios-itmo-2022-assignment3/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "103"
+                  endingLineNumber = "103"
+                  offsetFromSymbolStart = "644">
+               </Location>
+               <Location
+                  uuid = "49A344EE-0DFF-4B7A-AEA0-2C3E1C33E3ED - 46e5ad074eee78b7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_itmo_2022_assignment3.ViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "ios-itmo-2022-assignment3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/timurazov/university/ios/ios-itmo-2022-assignment-3-TimurUrazov/ios-itmo-2022-assignment3/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "103"
+                  endingLineNumber = "103"
+                  offsetFromSymbolStart = "1752">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "123DC303-B61E-493E-AC4F-8EC30FBA6D3F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-itmo-2022-assignment3/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D94F6F20-E765-41D9-A734-447E9D592D00"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-itmo-2022-assignment3/ReviewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "prepareForReuse()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D94F6F20-E765-41D9-A734-447E9D592D00 - 4e921d6c673dec69"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_itmo_2022_assignment3.ReviewCell.prepareForReuse() -&gt; ()"
+                  moduleName = "ios-itmo-2022-assignment3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/timurazov/university/ios/ios-itmo-2022-assignment-3-TimurUrazov/ios-itmo-2022-assignment3/ReviewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "D94F6F20-E765-41D9-A734-447E9D592D00 - ca77dbb6d58a105b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.UIImageView) -&gt; () in ios_itmo_2022_assignment3.ReviewCell.prepareForReuse() -&gt; ()"
+                  moduleName = "ios-itmo-2022-assignment3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/timurazov/university/ios/ios-itmo-2022-assignment-3-TimurUrazov/ios-itmo-2022-assignment3/ReviewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F80C31F9-80B4-4042-AB4F-FC4FA0F20BC2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-itmo-2022-assignment3/TreeSet.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "365"
+            endingLineNumber = "365"
+            landmarkName = "updateNodeSize(node:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DE486449-AE22-4D91-84C2-79923F953C45"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-itmo-2022-assignment3/TreeSet.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "366"
+            endingLineNumber = "366"
+            landmarkName = "updateNodeSize(node:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "230A0913-9826-4116-B5FA-4A74A6E1E7AD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-itmo-2022-assignment3/TreeSet.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "106"
+            endingLineNumber = "106"
+            landmarkName = "add(element:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "66123DEC-7D4B-4820-977C-2B539B5B699D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-itmo-2022-assignment3/TreeSet.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "413"
+            endingLineNumber = "413"
+            landmarkName = "rightRotate(node:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C3E2700D-6E14-4661-802D-BAA15BF223E5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-itmo-2022-assignment3/TreeSet.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "354"
+            endingLineNumber = "354"
+            landmarkName = "rebalanceTree(node:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0FCDF446-C982-4A5F-A83D-D966D657B9B1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-itmo-2022-assignment3/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "tableView(_:trailingSwipeActionsConfigurationForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B6B5B009-B213-4C87-9A19-40D3476384B8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-itmo-2022-assignment3/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
+            landmarkName = "tableView(_:trailingSwipeActionsConfigurationForRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B6B5B009-B213-4C87-9A19-40D3476384B8 - 839bc009ea5d3c0b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.UIContextualAction, __C.UIView, (Swift.Bool) -&gt; ()) -&gt; () in ios_itmo_2022_assignment3.ViewController.tableView(_: __C.UITableView, trailingSwipeActionsConfigurationForRowAt: Foundation.IndexPath) -&gt; Swift.Optional&lt;__C.UISwipeActionsConfiguration&gt;"
+                  moduleName = "ios-itmo-2022-assignment3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/timurazov/university/ios/ios-itmo-2022-assignment-3-TimurUrazov/ios-itmo-2022-assignment3/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "129"
+                  endingLineNumber = "129"
+                  offsetFromSymbolStart = "2732">
+               </Location>
+               <Location
+                  uuid = "B6B5B009-B213-4C87-9A19-40D3476384B8 - e8c1ee0685417435"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in closure #1 (__C.UIContextualAction, __C.UIView, (Swift.Bool) -&gt; ()) -&gt; () in ios_itmo_2022_assignment3.ViewController.tableView(_: __C.UITableView, trailingSwipeActionsConfigurationForRowAt: Foundation.IndexPath) -&gt; Swift.Optional&lt;__C.UISwipeActionsConfiguration&gt;"
+                  moduleName = "ios-itmo-2022-assignment3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/timurazov/university/ios/ios-itmo-2022-assignment-3-TimurUrazov/ios-itmo-2022-assignment3/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "130"
+                  endingLineNumber = "130"
+                  offsetFromSymbolStart = "232">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DE44A2A5-05B2-4829-ABE5-3DA7625D9504"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-itmo-2022-assignment3/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "tableView(_:trailingSwipeActionsConfigurationForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6E92342E-705B-4E1F-9D1B-2C0FF7839998"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-itmo-2022-assignment3/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "tableView(_:trailingSwipeActionsConfigurationForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AE33ACE4-FFCA-49E0-9185-0AB0295A82B0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-itmo-2022-assignment3/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "tableView(_:trailingSwipeActionsConfigurationForRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AE33ACE4-FFCA-49E0-9185-0AB0295A82B0 - 839bc009ea5d24cb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.UIContextualAction, __C.UIView, (Swift.Bool) -&gt; ()) -&gt; () in ios_itmo_2022_assignment3.ViewController.tableView(_: __C.UITableView, trailingSwipeActionsConfigurationForRowAt: Foundation.IndexPath) -&gt; Swift.Optional&lt;__C.UISwipeActionsConfiguration&gt;"
+                  moduleName = "ios-itmo-2022-assignment3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/timurazov/university/ios/ios-itmo-2022-assignment-3-TimurUrazov/ios-itmo-2022-assignment3/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "1476">
+               </Location>
+               <Location
+                  uuid = "AE33ACE4-FFCA-49E0-9185-0AB0295A82B0 - 23496f0046a3313b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (ios_itmo_2022_assignment3.ReviewWithDate) -&gt; Swift.Bool in closure #1 (__C.UIContextualAction, __C.UIView, (Swift.Bool) -&gt; ()) -&gt; () in ios_itmo_2022_assignment3.ViewController.tableView(_: __C.UITableView, trailingSwipeActionsConfigurationForRowAt: Foundation.IndexPath) -&gt; Swift.Optional&lt;__C.UISwipeActionsConfiguration&gt;"
+                  moduleName = "ios-itmo-2022-assignment3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/timurazov/university/ios/ios-itmo-2022-assignment-3-TimurUrazov/ios-itmo-2022-assignment3/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "112">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "80FACB2F-99A2-4437-AE66-316E63A81741"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-itmo-2022-assignment3/ReviewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "ReviewCell"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3BC68E9B-E19C-498E-B332-9121E4EFA3D5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-itmo-2022-assignment3/ReviewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "setup(with:date:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BE3E7E78-E7EB-4873-820D-B276D40AE0AF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-itmo-2022-assignment3/ReviewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "onButtonPress(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "06C40BD2-9419-4B64-8D69-FF1C22D1DF4C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-itmo-2022-assignment3/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "98"
+            endingLineNumber = "98"
+            landmarkName = "sectionIndexTitles(for:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DCB9D131-870D-4DF7-8CEE-791BA163D8AD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-itmo-2022-assignment3/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "tableView(_:titleForHeaderInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "56D0E7FC-55E0-4C7D-B40C-2B5AFDFE0E31"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-itmo-2022-assignment3/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "tableView(_:trailingSwipeActionsConfigurationForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0DB4403B-806E-4648-9566-F6C23B365BA6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-itmo-2022-assignment3/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DF6E175F-D22F-4DE1-8D46-2972996EBD94"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-itmo-2022-assignment3/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
+            landmarkName = "tableView(_:trailingSwipeActionsConfigurationForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8020F475-9E57-415D-A435-BAB493FC712F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-itmo-2022-assignment3/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "tableView(_:titleForHeaderInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2B73E273-6389-430E-A4B2-2C811693F123"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-itmo-2022-assignment3/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "tableView(_:numberOfRowsInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BEF6FB56-D804-40E7-BBC0-303C1CE96B84"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-itmo-2022-assignment3/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "ViewController"
+            landmarkType = "21">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3C5ADCA6-64C7-4F6F-9038-9150321E2BC7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-itmo-2022-assignment3/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "tableView(_:trailingSwipeActionsConfigurationForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="21507" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21505"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" reuseIdentifier="ReviewCell" rowHeight="93" id="2X0-FU-dDE" customClass="ReviewCell" customModule="ios_itmo_2022_assignment3" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="532" height="93"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="2X0-FU-dDE" id="sww-AG-WHZ">
+                <rect key="frame" x="0.0" y="0.0" width="532" height="93"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" alignment="top" translatesAutoresizingMaskIntoConstraints="NO" id="Whj-H3-mFW">
+                        <rect key="frame" x="332.5" y="28" width="186.5" height="37"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Dhy-6B-iWa">
+                                <rect key="frame" x="0.0" y="0.0" width="37.5" height="37"/>
+                                <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                                <state key="normal" image="GreyStar"/>
+                                <state key="selected" image="YellowStar"/>
+                                <connections>
+                                    <action selector="onButtonPress:" destination="2X0-FU-dDE" eventType="touchUpInside" id="Jp0-IS-cDd"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="seg-OH-C6s">
+                                <rect key="frame" x="37.5" y="0.0" width="37" height="37"/>
+                                <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                                <state key="normal" image="GreyStar"/>
+                                <state key="selected" image="YellowStar"/>
+                                <connections>
+                                    <action selector="onButtonPress:" destination="2X0-FU-dDE" eventType="touchUpInside" id="W4j-9q-5mQ"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Ky5-fu-Rib">
+                                <rect key="frame" x="74.5" y="0.0" width="37.5" height="37"/>
+                                <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                                <state key="normal" image="GreyStar"/>
+                                <state key="selected" image="YellowStar"/>
+                                <connections>
+                                    <action selector="onButtonPress:" destination="2X0-FU-dDE" eventType="touchUpInside" id="bND-Pv-DOs"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="p9a-mn-mTV">
+                                <rect key="frame" x="112" y="0.0" width="37" height="37"/>
+                                <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                                <state key="normal" image="GreyStar"/>
+                                <state key="selected" image="YellowStar"/>
+                                <connections>
+                                    <action selector="onButtonPress:" destination="2X0-FU-dDE" eventType="touchUpInside" id="5Mk-N2-NRl"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="bVx-FF-SVT">
+                                <rect key="frame" x="149" y="0.0" width="37.5" height="37"/>
+                                <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                                <state key="normal" image="GreyStar"/>
+                                <state key="selected" image="YellowStar"/>
+                                <connections>
+                                    <action selector="onButtonPress:" destination="2X0-FU-dDE" eventType="touchUpInside" id="1Dl-UN-Vy1"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="fUn-SX-Urs"/>
+                        <constraints>
+                            <constraint firstAttribute="width" secondItem="Whj-H3-mFW" secondAttribute="height" multiplier="5:1" id="vva-5P-KF8"/>
+                        </constraints>
+                    </stackView>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="bq2-An-LyV">
+                        <rect key="frame" x="0.0" y="9.5" width="319" height="74"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Дата выхода: 21.02.2002" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumFontSize="12" translatesAutoresizingMaskIntoConstraints="NO" id="crw-T9-nO5">
+                                <rect key="frame" x="21" y="30.5" width="175.5" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                                <color key="textColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Режиссёр: Фрэнк Дарабонт" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumFontSize="11" translatesAutoresizingMaskIntoConstraints="NO" id="qMp-3b-oFp">
+                                <rect key="frame" x="21" y="51.5" width="189" height="20.5"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <color key="textColor" white="0.33333333329999998" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Зеленая миля" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumFontSize="30" translatesAutoresizingMaskIntoConstraints="NO" id="ham-kl-PAk">
+                                <rect key="frame" x="21" y="1" width="288" height="29.5"/>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="25"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="crw-T9-nO5" firstAttribute="top" secondItem="ham-kl-PAk" secondAttribute="bottom" id="5Wi-iz-NV4"/>
+                            <constraint firstItem="qMp-3b-oFp" firstAttribute="height" secondItem="ham-kl-PAk" secondAttribute="height" multiplier="0.7" id="7xa-fx-yvP"/>
+                            <constraint firstItem="ham-kl-PAk" firstAttribute="top" secondItem="bq2-An-LyV" secondAttribute="top" multiplier="1.02" constant="1" id="Dbd-Zy-w2I"/>
+                            <constraint firstItem="qMp-3b-oFp" firstAttribute="leading" secondItem="ham-kl-PAk" secondAttribute="leading" id="FuL-GY-Gha"/>
+                            <constraint firstItem="qMp-3b-oFp" firstAttribute="height" secondItem="crw-T9-nO5" secondAttribute="height" id="HBl-lj-iJV"/>
+                            <constraint firstItem="qMp-3b-oFp" firstAttribute="top" secondItem="crw-T9-nO5" secondAttribute="bottom" id="KzV-WZ-Bvy"/>
+                            <constraint firstItem="crw-T9-nO5" firstAttribute="leading" secondItem="ham-kl-PAk" secondAttribute="leading" id="W4X-CY-mA4"/>
+                            <constraint firstItem="ham-kl-PAk" firstAttribute="height" secondItem="bq2-An-LyV" secondAttribute="height" multiplier="0.4" id="fbz-Yc-Nn1"/>
+                            <constraint firstAttribute="trailing" secondItem="ham-kl-PAk" secondAttribute="trailing" constant="10" id="tSY-eE-tDo"/>
+                            <constraint firstItem="ham-kl-PAk" firstAttribute="leading" secondItem="bq2-An-LyV" secondAttribute="leading" constant="21" id="wFn-lh-tWk"/>
+                        </constraints>
+                    </view>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="Whj-H3-mFW" firstAttribute="width" secondItem="sww-AG-WHZ" secondAttribute="width" multiplier="0.35" id="3uh-t5-6jP"/>
+                    <constraint firstItem="bq2-An-LyV" firstAttribute="height" secondItem="sww-AG-WHZ" secondAttribute="height" multiplier="0.8" id="FjZ-nd-vgf"/>
+                    <constraint firstItem="Whj-H3-mFW" firstAttribute="centerY" secondItem="sww-AG-WHZ" secondAttribute="centerY" id="IMP-Pr-CNT"/>
+                    <constraint firstItem="bq2-An-LyV" firstAttribute="leading" secondItem="sww-AG-WHZ" secondAttribute="leading" multiplier="4:3" id="aYQ-WY-fOg"/>
+                    <constraint firstAttribute="trailing" secondItem="Whj-H3-mFW" secondAttribute="trailing" multiplier="1.01" constant="8" id="tcs-3G-hnI"/>
+                    <constraint firstItem="bq2-An-LyV" firstAttribute="centerY" secondItem="sww-AG-WHZ" secondAttribute="centerY" id="x7c-hQ-jqy"/>
+                    <constraint firstItem="bq2-An-LyV" firstAttribute="width" secondItem="sww-AG-WHZ" secondAttribute="width" multiplier="0.6" id="yp1-2v-EaG"/>
+                </constraints>
+            </tableViewCellContentView>
+            <connections>
+                <outlet property="date" destination="crw-T9-nO5" id="cbx-jL-2nD"/>
+                <outlet property="director" destination="qMp-3b-oFp" id="DJs-jz-Cvf"/>
+                <outlet property="name" destination="ham-kl-PAk" id="tqm-5C-WnD"/>
+                <outletCollection property="assesmentStars" destination="Dhy-6B-iWa" collectionClass="NSMutableArray" id="R2i-tu-fFQ"/>
+                <outletCollection property="assesmentStars" destination="seg-OH-C6s" collectionClass="NSMutableArray" id="5Zp-hI-PjL"/>
+                <outletCollection property="assesmentStars" destination="Ky5-fu-Rib" collectionClass="NSMutableArray" id="SwZ-RL-veC"/>
+                <outletCollection property="assesmentStars" destination="p9a-mn-mTV" collectionClass="NSMutableArray" id="P3C-Ka-rn0"/>
+                <outletCollection property="assesmentStars" destination="bVx-FF-SVT" collectionClass="NSMutableArray" id="bBe-9z-NcB"/>
+            </connections>
+            <point key="canvasLocation" x="462" y="-103"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="GreyStar" width="41" height="39"/>
+        <image name="YellowStar" width="41" height="39"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>
